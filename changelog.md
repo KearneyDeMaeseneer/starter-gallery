@@ -9,3 +9,7 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 Release Date: Jan 24, 2017
 
 ## New Components
+
+Converted from static html to CodeIgniter
+- setup views and controllers
+- fixed the nav bar to work with CI
