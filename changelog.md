@@ -15,6 +15,7 @@ Converted from static html to CodeIgniter
 - fixed the nav bar to work with CI
 
 updated the following files with changes:
+
 - application/views/template.php: pagetitle, content
 - public/index.html: css root changed
 - views/welcome.php: kept "meat"
